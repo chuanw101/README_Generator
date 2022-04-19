@@ -11,7 +11,7 @@ const questions = [
     {type: "input", name:"usage", message: "Enter usage information:"},
     {type: "input", name:"contrib", message: "Enter contribution guidelines:"},
     {type: "input", name:"test", message: "Enter test instructions:"},
-    {type: "list", name:"license", message: "Choose a license:", choices: ["Apache License 2.0", "MIT License", "GNU GPLv3"]},
+    {type: "list", name:"license", message: "Choose a license:", choices: ["Apache License 2.0", "MIT License", "GNU GPLv3", "None"]},
     {type: "input", name:"username", message: "Enter your GitHub username:"},
     {type: "input", name:"email", message: "Enter your contact email:"},
 ];
