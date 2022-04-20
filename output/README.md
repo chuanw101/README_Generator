@@ -1,35 +1,36 @@
-# proj1
+# aewg
 
 ## Description
-alkwegn
+aewg
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
+- [Contribution](#contribution)
+- [Test](#test)
 - [License](#license)
 - [GitHub](#github)
 - [Contact](#contact)
 
 ## Installation
-aweg
+agwe
 
 ## Usage
-aegw
+gaew
 
-## Contribution Guidelines
-geaw
+## Contribution
+awge
 
-## Test Information
-aegw
+## Test
+gea
 
 ## License
-This project is licensed with MIT License.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed with GNU GPLv3.<br>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## GitHub
-https://github.com/chuanw101
+https://github.com/awge
 
 ## Contact
-- Author: chuan
-- Email: laknwge
+- Author: aweg
+- Email: agew
