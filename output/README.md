@@ -1,7 +1,7 @@
-# aewg
+# Project 1
 
 ## Description
-aewg
+Description lkanwegklanwgelknaweg
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,24 +13,24 @@ aewg
 - [Contact](#contact)
 
 ## Installation
-agwe
+Install this
 
 ## Usage
-gaew
+Use this
 
 ## Contribution
-awge
+No need for contribution
 
 ## Test
-gea
+Install then use
 
 ## License
-This project is licensed with GNU GPLv3.<br>
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+This project is licensed with MIT License.<br>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## GitHub
-https://github.com/awge
+https://github.com/chuanw101
 
 ## Contact
-- Author: aweg
-- Email: agew
+- Author: Chuan Wang
+- Email: email@email.com

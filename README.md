@@ -1,7 +1,14 @@
 # README-Generator
 
 ## Description
-This is a simple program that will ask user for inputs using inqurier then output a formatted README.md file into the output folder.
+This is a simple program that will ask user for inputs using inqurier then output a formatted README.md file into the output folder.<br>
+Badge with link will be created depending on which license is selected, if none is selected then no badge.<br>
+A link to the user's github will be shown by using the username entered by user.<br>
+The README.md in the output folder currently is a sample output of the program.<br>
+This readme is also generated using the program then edited to add in bit more description and a Demo section with the video link.
+
+## Demo
+https://youtu.be/sUKKcF9ro9g
 
 ## Table of Contents
 - [Installation](#installation)
