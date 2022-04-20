@@ -26,7 +26,7 @@ This project is licensed with ${license}.
 ${badge}`
 }
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 function generateMarkdown(data) {
     const license = renderLicenseSection(data.license);
 
@@ -56,6 +56,7 @@ ${data.contrib}
 ${data.test}
 
 ${license}
+
 ## GitHub
 https://github.com/${data.username}
 

@@ -17,14 +17,23 @@ const questions = [
     {type: "input", name:"email", message: "Enter your contact email:"},
 ];
 
-// TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+// Create a function to write README file
+function writeToFile(fileName, data) {
+    const content = generate(data);
+    fs.writeFile(`./output/${fileName}`, content, (err) => {
+        if (err)
+          console.log(err);
+        else {
+          console.log("README generated successfully in output folder");
+        }
+      });
+}
 
 // Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
     .then((res) => {
-        console.log(JSON.stringify(res));
+        writeToFile("README.md", res);
     });
 }
 
