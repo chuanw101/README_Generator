@@ -20,7 +20,7 @@ https://youtu.be/sUKKcF9ro9g
 - [Contact](#contact)
 
 ## Installation
-type "npm i inquirer" in terminal to install inqurier, required for this program to work
+type "npm install" in terminal to install dependencies (inqurier), required for this program to work
 
 ## Usage
 type "node index.js" in terminal to run, follow the prompts to enter information, generated README.md will be in the output folder
